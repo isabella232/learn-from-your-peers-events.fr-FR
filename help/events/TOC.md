@@ -2,9 +2,9 @@
 user-guide-title: "[!DNL Experience Makers Learn from your peers]"
 user-guide-breadcrumb: "[!DNL Experience Makers Learn from your peers]"
 user-guide-description: "Collection d'enregistrements de [!DNL Experience Makers Learn from your peers]"
-source-git-commit: 665f73494d34266d2f581d701b400aae96405b9b
+source-git-commit: b434237a678e938db8d99796def77ce92902738c
 workflow-type: tm+mt
-source-wordcount: '48'
+source-wordcount: '56'
 ht-degree: 25%
 
 ---
@@ -12,7 +12,7 @@ ht-degree: 25%
 
 # [!DNL Experience Makers Learn from your peers] {#events}
 
-+ [Présentation](./overview.md)
++ [Aperçu](./overview.md)
 + Analytics {#analytics}
    + 2023 {#2023}
       + Février {#feb2023}
@@ -28,3 +28,6 @@ ht-degree: 25%
          + [Mission de documentation possible](analytics/june2022/mission-possible.md)
       + Mars {#mar2022}
          + [Affichage d’articles pertinents avec des données](analytics/mar2022/stories-with-data.md)
++ Marketo {#marketo}
+   + Mars {#mar2023}
+      + [Comment créer votre [!DNL Adobe Marketo Engage] Contenu évolutif](marketo/mar2023/templates-tokens-teamwork.md)
